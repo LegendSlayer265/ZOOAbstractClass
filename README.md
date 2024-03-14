@@ -12,10 +12,10 @@ Sprint 1:
 Sprint 2:
 
 * El empleador desea tener un menú principal que permita acceder a diversas opciones del programa.
-
 * El empleador desea contar con una sección específica para la creación de perfiles de los trabajadores.
-
 * El empleador desea poder acceder remotamente a la información de asistencia.
+
+Next Tasks:
 
 * El empleador desea mantener un registro de asistencia.
 
