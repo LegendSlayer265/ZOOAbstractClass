@@ -13,7 +13,7 @@ Sprint 2:
 
 * El empleador desea tener un menú principal que permita acceder a diversas opciones del programa.
 * El empleador desea contar con una sección específica para la creación de perfiles de los trabajadores.
-* El tendero desea poder  guardar la informacion de sus empleados.
+* El empleador desea poder  guardar la informacion de sus empleados.
 
 Next Tasks:
 
