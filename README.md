@@ -11,9 +11,10 @@ Sprint 1:
 
 Sprint 2:
 
-* El empleador desea tener un menú principal que permita acceder a diversas opciones del programa.
-* El empleador desea contar con una sección específica para la creación de perfiles de los trabajadores.
-* El empleador desea poder  guardar la informacion de sus empleados.
+*  El empleador desea tener un menú principal que permita acceder a diversas opciones de uso del programa.
+* El empleador desea tener un apartado especifico para la creación de perfiles de los trabajadores.
+* El empleador desea poder guardar la informacion personal de sus empleados.
+* El empleador desea que el acceso a la información personal de sus empleados sea restringido.
 
 Next Tasks:
 
